@@ -56,17 +56,6 @@ GPT聚合版是一个聚合了多个GPT聊天机器人的聊天工具, 高效快
 ##### Newbing
 需要有体验资格且必须登录微软账号(国内ip无法正常跳转)
 
-## 截图
-<div>
-<img src="demo/win1.png" width=40% alt="yiyan"/>
-<img src="demo/win2.png" width=40% alt="yiyan"/>
-<img src="demo/win3.png" width=40% alt="chatchat"/>
-<img src="demo/poe.png" width=40% alt="poe"/>
-<img src="demo/select.png" width=40% alt="平台选择"/>
-<img src="demo/platforms.png" width=40% alt="阿里"/>
-<img src="demo/side.png" width=40% alt="side"/>
-</div>
-
 ## 特别感谢
 
 - [OneGPT](https://github.com/1595901624/gpt-aggregated-edition)
@@ -98,11 +87,8 @@ To build a redistributable, production mode package, use `wails build`.
 - **Go学习日记** 微信公众号
 **扫码关注公众号**
 
-<img src="demo/gzh.jpg" height="240" />
-
 ## 感谢支持
 觉得对你有帮助请问喝杯咖啡~~
 
 | 微信 | 支付宝 |
 | --- | --- |
-| <img src="demo/wechat.jpg" height="240" /> | <img src="demo/alipay.jpg" height="240" /> |
